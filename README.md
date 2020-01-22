@@ -5,11 +5,11 @@ Aplikasi kontak app with snackbar
 
 
 ## Preview 1
-<img src="https://github.com/basriumar12/SqliteAppKontak/tree/master/sc/1.PNG" width="256"/>&nbsp;
+<img src="https://github.com/basriumar12/SqliteAppKontak/blob/master/sc/1.png" width="256"/>&nbsp;
 ## Preview 2
-<img src="https://github.com/basriumar12/SqliteAppKontak/tree/master/sc/2.png" width="256"/>&nbsp;
+<img src="https://github.com/basriumar12/SqliteAppKontak/blob/master/sc/2.png" width="256"/>&nbsp;
 ## Preview 3
-<img src="https://github.com/basriumar12/SqliteAppKontak/tree/master/sc/3.png" width="256"/>&nbsp;
+<img src="https://github.com/basriumar12/SqliteAppKontak/blob/master/sc/3.png" width="256"/>&nbsp;
 
 
 ## Kontribusi
